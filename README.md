@@ -1,6 +1,6 @@
-## Hi, I'm Daniel 👋
+## I'm Daniel 
 
-Computer Science student at the **University of Houston** (May 2027) focused on **machine learning and data science**. I like the full process: cleaning messy real-world data, building models, and figuring out why they work or don't.
+Computer Science student at the **University of Houston** (May 2027) focused on **machine learning and data science**. I like the full process: deciphering real-world data, building models, and figuring out why they work or don't.
 
 📫 [LinkedIn](https://linkedin.com/in/daniel-niechwiadowicz) · applydanieln@gmail.com
 🔍 Seeking Data Science / ML internships
