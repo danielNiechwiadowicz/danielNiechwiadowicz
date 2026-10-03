@@ -2,12 +2,12 @@
 
 Computer Science student at the **University of Houston** (May 2027) focused on **machine learning and data science**. I like the full process: deciphering real-world data, building models, and figuring out why they work or don't.
 
-📫 [LinkedIn](https://linkedin.com/in/daniel-niechwiadowicz) · applydanieln@gmail.com
+[LinkedIn](https://linkedin.com/in/daniel-niechwiadowicz) · applydanieln@gmail.com
 🔍 Seeking Data Science / ML internships
 
 ---
 
-### 🛠️ Tech
+### Tech
 **Languages:** Python · SQL · JavaScript
 **ML & Data:** PyTorch · scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · CUDA
 **Tools:** Jupyter · MySQL · Node.js/Express · Git
