@@ -25,4 +25,4 @@ Computer Science student at the **University of Houston** (May 2027) focused on 
 | [**Post Office 8**](https://github.com/erinbryant/DatabaseTeam8) | Full-stack app on MySQL with transactional logic across 6 tables, JWT auth, and role-based access | MySQL, Node.js, React |
 
 ### Resume
-[View my resume (PDF](./niechwiadowiczDaniel_Resume_10.02.2026.pdf)
+[View my resume (PDF)](./niechwiadowiczDaniel_Resume_10.02.2026.pdf)
