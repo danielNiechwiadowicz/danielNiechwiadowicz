@@ -14,7 +14,7 @@ Computer Science student at the **University of Houston** (May 2027) focused on 
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
